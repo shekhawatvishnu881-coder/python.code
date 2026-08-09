@@ -1,4 +1,4 @@
-a=10
-b=20
-c=a+b
-print("sum is ",c)
+n1=10
+n2=20
+sum=a+b
+print("sum is ",sum)
